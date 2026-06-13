@@ -1,5 +1,4 @@
 # rag_chatbot.py — Production-ready RAG in <50 lines
-# pip install langchain langchain-openai langchain-community faiss-cpu pypdf
 
 import os
 from langchain_community.document_loaders import PyPDFLoader
